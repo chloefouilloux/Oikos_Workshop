@@ -19,5 +19,5 @@ Chloe
 
 
 
-[![Scattered Bernie] (https://github.com/chloefouilloux/Oikos_Workshop/blob/main/Bernie.png)]
+[![Scattered Bernie] (https://raw.githubusercontent.com/chloefouilloux/Oikos_Workshop/main/Bernie.png)]
 
