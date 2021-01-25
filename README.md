@@ -18,3 +18,5 @@ Best,
 Chloe
 
 
+
+![Image of Yaktocat] (https://raw.githubusercontent.com/chloefouilloux/Oikos_Workshop/main/Bernie.png)
