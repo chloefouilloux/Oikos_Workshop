@@ -19,4 +19,5 @@ Chloe
 
 
 
-![Image of Yaktocat] (https://raw.githubusercontent.com/chloefouilloux/Oikos_Workshop/main/Bernie.png)
+![Image of Yaktocat] (/chloefouilloux/Oikos_Workshop/main/Bernie.png?raw=true "Optional Title")
+
