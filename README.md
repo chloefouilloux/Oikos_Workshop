@@ -19,5 +19,5 @@ Chloe
 
 
 
-![Image of Yaktocat] (/chloefouilloux/Oikos_Workshop/main/Bernie.png?raw=true "Optional Title")
+![Scattered Bernie] (https://github.com/chloefouilloux/Oikos_Workshop/blob/main/Bernie.png)
 
