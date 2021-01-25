@@ -18,8 +18,8 @@ Best,
 Chloe
 
 
-
-[![Scattered Bernie] (https://github.com/chloefouilloux/Oikos_Workshop/blob/main/Bernie.png?raw=true)]
+### I hope we have lots of fun! 
+![Scattered Bernie](https://github.com/chloefouilloux/Oikos_Workshop/blob/main/Bernie.png?raw=true)
 
 
 
